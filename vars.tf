@@ -1,0 +1,3 @@
+variable "SiteTags" {}
+
+variable "domainName" {}
