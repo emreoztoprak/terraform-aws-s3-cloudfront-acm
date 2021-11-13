@@ -55,7 +55,7 @@ domainName = "example.com" (This domain name should exists in the Route53. This 
 
 ```
 
-When you change the variables now you can run this module.
+You can now run this module when you change the variables.
 
 ```
 terraform init
