@@ -40,7 +40,7 @@ This terraform module will create a private S3 bucket, CloudFront distribution w
 
 ### Prerequisites
 
-Before the deployment of this terraform module, make sure your hosted zone exists in Route 53.
+Before the deployment of this terraform module, make sure your hosted zone exists in Route 53 and move your domain to Route53 by changing NS records on your DNS provider.
 
 
 ### Installation
